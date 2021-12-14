@@ -25,6 +25,12 @@ need to add **useful links** for *web developers*
 
 #### THE GIT
 https://git-scm.com/
+https://github.com/git
+https://git.github.io/
+https://github.com/git-guides
+https://github.com/agis/git-style-guide
+https://www.atlassian.com/git/tutorials
+https://www.git-tower.com/learn/git/ebook
 https://git-scm.com/about
 https://git-scm.com/book
 https://git-scm.com/doc
@@ -41,6 +47,7 @@ https://github.com/progit/progit2-ru
 https://github.com/git-guides/install-git
 https://github.com/git/git-scm.com/
 https://github.com/git/git-scm.com/blob/main/README.md
+https://docs.github.com/en/get-started/quickstart/set-up-git
 https://gitforwindows.org/
 https://www.tutorialspoint.com/git/index.htm
 https://www.atlassian.com/git/tutorials/what-is-git
@@ -60,6 +67,7 @@ https://proglib.io/p/git-for-half-an-hour
 https://github.com/
 https://desktop.github.com/
 https://docs.github.com/en
+https://docs.github.com/en/github
 https://education.github.com/
 https://education.github.com/students
 https://guides.github.com/
