@@ -1,0 +1,584 @@
+<html>
+	<head>
+		<style>
+		body {
+			border: 0;
+			margin: 0;
+			padding: 0;
+			background: black;
+			box-sizing: border-box;
+			}
+		h1 {
+			color: white;
+			margin: 3px;
+			padding: 3px;
+			text-align: center;
+			}
+		h2 {
+			color: white;
+			margin: 3px;
+			padding: 3px;
+			text-align: center;
+			}
+		.content {
+			display: flex;
+			flex-wrap: wrap;
+			flex-flow: row wrap;
+			background: black;
+			box-sizing: border-box;
+			}
+		.wrapper {
+			margin: 2px;
+			flex: 0 0 auto;
+			border: 1px solid white;
+			background: black;
+			box-sizing: border-box;
+			}
+		.block {
+			margin: 2px;
+			padding: 3px;
+			background: dimgrey;
+			box-sizing: border-box;
+			}
+		.info {
+			margin: 2px;
+			color: black;
+			}
+		</style>
+	</head>
+	<body>
+		<h1> Web Developers Resource </h1>
+		<main class="content">
+			<section class="wrapper">
+				<h2> Web &amp; Vendors: </h2>
+				<article class="block">
+					<ul class="info">
+						<li><strong>W3C</strong>
+							<ul>
+								<li><a href="https://w3.org/">W3C Site</a></li>
+								<li>https://www.w3.org/WAI/</li>
+								<li>https://www.w3.org/standards/</li>
+								<li>https://www.w3.org/Consortium/</li>
+								<li>https://www.w3.org/developers/</li>
+								<li>https://www.edx.org/school/w3cx</li>
+								<li><a href="https://github.com/w3c">W3C GitHub Rep</a></li>
+								<li><a href="https://w3c.github.io/">W3C GitHub Page</a></li>
+								<li><a href="https://en.wikipedia.org/wiki/W3C">W3C Wiki</a></li>
+							</ul>
+						</li>
+						<li><strong>IETF</strong>
+							<ul>
+								<li>https://ietf.org/</li>
+								<li>https://ietfjournal.org/</li>
+								<li>https://ietf.org/about/</li>
+								<li>https://ietf.org/about/who/</li>
+								<li>https://internetsociety.org/about-the-ietf/</li>
+								<li>https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force</li>
+							</ul>
+						</li>
+						<li><strong>WHATWG</strong>
+							<ul>
+							<li>https://whatwg.org/</li>
+							<li>https://spec.whatwg.org/</li>
+							<li>https://html.spec.whatwg.org/</li>
+							<li>https://en.wikipedia.org/wiki/WHATWG</li>
+							</ul>
+						</li>
+						<li><strong>Internet Society (ISOC)</strong>
+							<ul>
+							<li>https://internetsociety.org/</li>
+							<li>https://internetsociety.org/issues/encryption/</li>
+							<li>https://en.wikipedia.org/wiki/Internet_Society</li>
+							</ul>
+						</li>
+						<li><strong>Web Platform</strong>
+							<ul>
+							<li>https://webplatform.github.io/</li>
+							<li>https://en.wikipedia.org/wiki/WebPlatform.org</li>
+							</ul>
+						</li>
+						<li><strong>Web Standards Project</strong>
+							<ul>
+							<li>https://webstandards.org/</li>
+							<li>https://en.wikipedia.org/wiki/Web_Standards_Project</li>
+							</ul>
+						</li>
+						<li><strong>MDN Web Docs</strong>
+							<ul>
+							<li>https://developer.mozilla.org/</li>
+							<li>https://en.wikipedia.org/wiki/MDN_Web_Docs</li>
+							</ul>
+						</li>
+						<li><strong>Mozilla Foundation</strong>
+							<ul>
+							<li>https://mozilla.org/ru/</li>
+							<li>https://mozilla.org/en-US/</li>
+							<li>https://foundation.mozilla.org/</li>
+							<li>https://developer.mozilla.org/ru/</li>
+							<li>https://developer.mozilla.org/en-US/</li>
+							<li>https://en.wikipedia.org/wiki/MDN_Web_Docs</li>
+							<li>https://en.wikipedia.org/wiki/Mozilla_Foundation</li>
+							</ul>
+						</li>
+						<li><strong>LWN Project</strong>
+							<ul>
+								<li>https://lwn.net/</li>
+								<li>https://lwn.net/Distributions/</li>
+							</ul>
+						</li>
+						<li><strong>Open Net</strong>
+							<ul>
+								<li>https://opennet.ru/</li>
+								<li>https://opennet.ru/mp/</li>
+							</ul>
+						</li>
+						<li><strong>LINUX.ORG.RU</strong>
+							<ul>
+								<li>https://linux.org.ru/</li>
+								<li>https://linux.org.ru/news/</li>
+							</ul>
+						</li>
+						<li><strong>OpenNet Initiative</strong>
+							<ul>
+								<li>https://opennet.net/</li>
+								<li>https://en.wikipedia.org/wiki/OpenNet_Initiative</li>
+								<li>https://en.wikipedia.org/wiki/Portal:Freedom_of_speech</li>
+							</ul>
+						</li>
+						<li><strong>GNU Project</strong>
+							<ul>
+								<li>https://gnu.org/</li>
+								<li>https://gnu.org/gnu/gnu.html</li>
+								<li><a href="https://en.wikipedia.org/wiki/GNU_Project">GNU Project Wiki</a></li>
+								<li>https://en.wikipedia.org/wiki/GNU_General_Public_License</li>
+							</ul>
+						</li>
+						<li><strong>Linux</strong>
+							<ul>
+								<li>https://linux.org/</li>
+								<li>https://kernel.org/</li>
+								<li><a href="https://en.wikipedia.org/wiki/Linux">Linux Wiki</a></li>
+								<li><a href="https://en.wikipedia.org/wiki/Linux_kernel">Linux Kernel Wiki</a></li>
+								<li><a href="https://en.wikipedia.org/wiki/Portal:Linux">Linux Portal</a></li>
+							</ul>
+						</li>
+						<li><strong>FOSS</strong>
+							<ul>
+								<li>https://en.wikipedia.org/wiki/FOSS</li>
+								<li>https://en.wikipedia.org/wiki/Open_source</li>
+								<li>https://en.wikipedia.org/wiki/Open-source_software</li>
+								<li><a href="https://en.wikipedia.org/wiki/Portal:Free_and_open-source_software">FOSS Portal</a></li>
+							</ul>
+						</li>
+						<li><strong>GNU/Linux</strong>
+							<ul>
+								<li>https://gnu.org/distros/distros.html</li>
+								<li>https://gnu.org/distros/free-distros.html</li>
+								<li>https://en.wikipedia.org/wiki/Linux_distribution<li/>
+								
+							</ul>
+						</li>
+						<li><strong>Debian Project</strong>
+							<ul>
+								<li>https://debian.org/</li>
+								<li>https://wiki.debian.org/</li>
+								<li>https://en.wikipedia.org/wiki/Debian</li>
+								<li>https://en.wikipedia.org/wiki/Debian_Social_Contract</li>
+								<li>https://en.wikipedia.org/wiki/Debian_Free_Software_Guidelines</li>
+							</ul>
+						</li>
+						<li><strong>DistroWatch</strong>
+							<ul>
+								<li>https://distrowatch.com/</li>
+								<li>https://en.wikipedia.org/wiki/DistroWatch</li>
+								<li>https://en.wikipedia.org/wiki/Linux_distribution<li/>
+								
+							</ul>
+						</li>
+						<li><strong>Linux Foundation</strong>
+							<ul>
+								<li>https://linuxfoundation.org/</li>
+								<li><a href="https://en.wikipedia.org/wiki/Linux_Foundation">Linux Foundation</a></li>
+							</ul>
+						</li>
+						<li><strong>Open Web</strong>
+							<ul>
+								<li>https://openwebfoundation.org/</li>
+								<li><a href="https://en.wikipedia.org/wiki/Open_Web_Foundation">Open Web Wiki</a></li>
+							</ul>
+						</li>
+						<li><strong>Open Stack</strong>
+							<ul>
+								<li>https://openstack.org/</li>
+								<li><a href="https://en.wikipedia.org/wiki/OpenStack">Open Stack Wiki</a></li>
+							</ul>
+						</li>
+						<li><strong>O'Reilly</strong>
+							<ul>
+								<li>https://oreilly.com/</li>
+								<li><a href="https://en.wikipedia.org/wiki/O%27Reilly_Media">O'Reilly Wiki</a></li>
+							</ul>
+						</li>
+						<li><strong>O'Reilly OSCON</strong>
+							<ul>
+								<li>http://oscon.com/</li>
+								<li><a href="https://en.wikipedia.org/wiki/O%27Reilly_Open_Source_Convention">O'Reilly OSCON Wiki</a></li>
+							</ul>
+						</li>
+						<li><strong>ECMA Intern.</strong>
+							<ul>
+								<li><a href="https://ecma-international.org/">ECMA Site</a></li>
+								<li><a href="https://en.wikipedia.org/wiki/Ecma_International">ECMA Wiki</a></li>
+								<li><a href="https://www.ecma-international.org/publications-and-standards/standards/">ECMA Standatrs</a></li>
+								<li><a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/">ECMA 262</a></li>
+							</ul>
+						</li>
+						<li><strong>Web Foundation</strong>
+							<ul>
+								<li>https://webfoundation.org/</li>
+								<li><a href="https://en.wikipedia.org/wiki/World_Wide_Web_Foundation">Web Foundation Wiki</a></li>
+							</ul>
+						</li>
+						<li><strong>Contract for Web</strong>
+							<ul>
+								<li>https://contractfortheweb.org/</li>
+								<li><a href="https://en.wikipedia.org/wiki/Contract_for_the_Web">Contract for Web Wiki</a></li>
+							</ul>
+						</li>
+						<li><strong>Solid Project</strong>
+							<ul>
+								<li>https://solid.mit.edu/</li>
+								<li>https://solidproject.org/</li>
+								<li>https://github.com/solid</li>
+								<li><a href="https://en.wikipedia.org/wiki/Solid_(web_decentralization_project)">Solid Wiki</a></li>
+							</ul>
+						</li>
+						<li><strong>Free Software Foundation</strong>
+							<ul>
+								<li>https://fsf.org/</li>
+								<li>https://directory.fsf.org/wiki/Main_Page</li>
+								<li>https://en.wikipedia.org/wiki/Free_Software_Directory</li>
+								<li><a href="https://en.wikipedia.org/wiki/Free_Software_Foundation">Free Software Foundation Wiki</a></li>
+							</ul>
+						</li>
+						<li><strong>Open Source Initiatives</strong>
+							<ul>
+								<li>https://opensource.org/</li>
+								<li>https://opensource.org/docs/definition.php</li>
+								<li>https://en.wikipedia.org/wiki/The_Open_Source_Definition</li>
+								<li><a href="https://en.wikipedia.org/wiki/Open_Source_Initiative">Open Source Initiative</a></li>
+							</ul>
+						</li>
+						<li><strong>Open Source (Ideology)</strong>
+							<ul>
+								<li>https://en.wikipedia.org/wiki/Open_source</li>
+								<li>https://en.wikipedia.org/wiki/Open-source_license</li>
+								<li>https://en.wikipedia.org/wiki/Open-source_software</li>
+								<li>https://en.wikipedia.org/wiki/Open-source-software_movement</li>
+								<li><a href="https://en.wikipedia.org/wiki/Open-source_software_development">Open Source</a></li>
+							</ul>
+						</li>
+						<li><strong>Electronic Frontier Foundation (EFF)</strong>
+							<ul>
+								<li>https://eff.org/</li>
+								<li>https://en.wikipedia.org/wiki/Electronic_Frontier_Foundation</li>
+							</ul>
+						</li>
+						<li><strong>The Apache Software Foundation</strong>
+							<ul>
+								<li>https://apache.org/</li>
+								<li>https://en.wikipedia.org/wiki/Apache_License</li>
+								<li>https://en.wikipedia.org/wiki/The_Apache_Software_Foundation</li>
+							</ul>
+						</li>
+						<li><strong>OpenJS Foundation</strong>
+							<ul>
+								<li>https://openjsf.org/</li>
+								<li>https://openjsf.org/about/</li>
+								<li>https://openjsf.org/projects/</li>
+								<li>https://en.wikipedia.org/wiki/OpenJS_Foundation</li>
+							</ul>
+						</li>
+						<li><strong>JS &amp; JSON</strong>
+							<ul>
+								<li>https://json.org/</li>
+								<li>https://jsonapi.org/</li>
+								<li>https://www.jslint.com/</li>
+								<li>https://json-schema.org/</li>
+								<li>https://json-schema.org/specification.html</li>
+								<li>https://restfulapi.net/json-schema/</li>
+								<li>https://crockford.com/</li>
+								<li>https://github.com/douglascrockford</li>
+								<li>https://crockford.com/books.html</li>
+								<li>https://crockford.com/javascript/</li>
+								<li>https://howjavascriptworks.com/</li>
+								<li>https://rfc-editor.org/info/std90</li>
+								<li>https://json.org/json-en.html</li>
+								<li>https://en.wikipedia.org/wiki/JSON</li>
+								<li>https://en.wikipedia.org/wiki/JSLint</li>
+								<li>https://en.wikipedia.org/wiki/JSON_Feed</li>
+								<li>https://en.wikipedia.org/wiki/JavaScript</li>
+								<li>https://en.wikipedia.org/wiki/Douglas_Crockford</li>
+							</ul>
+						</li>
+						<li><strong>Open Collective</strong>
+							<ul>
+								<li>https://opencollective.com/</li>
+								<li>https://opencollective.com/discover</li>
+								<li>https://opencollective.com/how-it-works</li>
+								<li>https://docs.opencollective.com/</li>
+								<li>https://opencollective.com/wiki</li>
+								<li>https://opencollective.foundation/</li>
+								<li>https://github.com/opencollective</li>
+								<li>https://github.com/opencollective/opencollective</li>
+								<li>https://en.wikipedia.org/wiki/Pia_Mancini</li>
+								<li>https://piamancini.com/</li>
+								<li>https://en.wikipedia.org/wiki/Direct_democracy</li>
+								<li>https://en.wikipedia.org/wiki/Open-source_governance</li>
+							</ul>
+						</li>
+						<li><strong>P2P Foundation</strong>
+							<ul>
+								<li>https://p2pfoundation.net/</li>
+								<li>https://commonstransition.org/</li>
+								<li>https://wiki.p2pfoundation.net/</li>
+								<li>https://en.wikipedia.org/wiki/Michel_Bauwens</li>
+								<li>https://wiki.p2pfoundation.net/Open_Collective</li>
+								<li>https://wiki.p2pfoundation.net/P2P_Foundation:About</li>
+								<li>https://p2pfoundation.net/the-p2p-foundation</li>
+								<li>https://wiki.p2pfoundation.net/Main_Page</li>
+								<li>https://en.wikipedia.org/wiki/Social_peer-to-peer_processes</li>
+								<li>https://commonstransition.org/portfolio/the-p2p-foundation/</li>
+							</ul>
+						</li>
+						<li>IBM (https://ibm.com/)</li>
+						<li>https://github.com/IBM</li>
+						<li>eBay (https://ebay.com/)</li>
+						<li>TC39 (https://tc39.es/)</li>
+						<li>https://github.com/tc39</li>
+						<li>ECMA 262 (https://tc39.es/ecma262/)</li>
+						<li>https://github.com/tc39/ecma262/</li>
+						<li>GitHub (https://github.com/)</li>
+						<li>Apple (https://apple.com/)</li>
+						<li>PayPal (https://paypal.com/)</li>
+						<li>Amazon (https://amazon.com/)</li>
+						<li>Facebook (https://facebook.com/)</li>
+						<li>WikiMedia (https://wikimedia.org/)</li>
+						<li>Apache (https://apache.org/)</li>
+						<li>Twitter (https://twitter.com/)</li>
+						<li>Android (https://android.com/)</li>
+						<li>Oracle (https://oracle.com/)</li>
+						<li>Microsoft (https://microsoft.com/)</li>
+						<li>Google (https://google.com/)</li>
+						<li>Mozilla (https://mozilla.org/)</li>
+						<li>Solid Project (https://solidproject.org/)</li>
+						<li>Zend Company (https://zend.com/)</li>
+						<li>Yahoo! (https://yahoo.com/)</li>
+					</ul>
+				</article>
+			</section>
+			<section class="wrapper">
+				<h2> Dev Learning: </h2>
+				<article class="block">
+					<ul class="info">
+						<li>https://githut.info/</li>
+						<li>https://rs.school/</li>
+						<li>https://docs.rs.school/#/</li>
+						<li>https://rs.school/js-stage0/</li>
+						<li>https://docs.rs.school/#/js-fe-course</li>
+						<li>https://rolling-scopes-school.github.io/stage0/#/</li>
+						<li>https://github.com/rolling-scopes-school/tasks/</li>
+						<li>https://school.hh.ru/</li>
+						<li>https://school.hh.ru/reference</li>
+						<li>https://ru.hexlet.io/</li>
+						<li>https://xnim.ru/ru-RU</li>
+						<li>https://xnim.ru/ru-RU/talks</li>
+						<li>https://github.com/explore</li>
+						<li>https://github.com/topics</li>
+						<li>https://github.com/trending</li>
+						<li>https://github.com/collections/</li>
+						<li>https://github.com/collections/learn-to-code</li>
+						<li>https://git-scm.com/book/en/v2</li>
+						<li>https://devdocs.io/</li>
+						<li>https://devdocs.io/nim/</li>
+						<li>https://devdocs.io/css/</li>
+						<li>https://devdocs.io/dom/</li>
+						<li>https://devdocs.io/html/</li>
+						<li>https://devdocs.io/http/</li>
+						<li>https://devdocs.io/javascript/</li>
+						<li>https://rosettacode.org/wiki/Rosetta_Code</li>
+						<li>https://learnxinyminutes.com/</li>
+						<li>https://learnxinyminutes.com/docs/ru-ru/nim-ru/</li>
+						<li>https://learnxinyminutes.com/docs/ru-ru/css-ru/</li>
+						<li>https://learnxinyminutes.com/docs/ru-ru/html-ru/</li>
+						<li>https://learnxinyminutes.com/docs/ru-ru/java-ru/</li>
+						<li>https://learnxinyminutes.com/docs/ru-ru/php-ru/</li>
+						<li>https://learnxinyminutes.com/docs/ru-ru/json-ru/</li>
+						<li>https://learnxinyminutes.com/docs/ru-ru/julia-ru/</li>
+						<li>https://learnxinyminutes.com/docs/ru-ru/xml-ru/</li>
+						<li>https://codeguide.co/</li>
+						<li>https://doc.lagout.org/</li>
+						<li>https://githowto.com/ru/</li>
+						<li>https://javascript30.com/</li>
+						<li>https://rollingscopes.com/</li>
+						<li>https://ru.code-basics.com/</li>
+						<li>https://git-scm.com/book/ru/v2</li>
+						<li>https://developer.paypal.com/</li>
+						<li>https://developer.ebay.com/</li>
+						<li>https://developer.twitter.com/</li>
+						<li>https://developer.mozilla.org/</li>
+						<li>https://code.google.com/</li>
+						<li>https://opensource.google/</li>
+						<li>https://developer.microsoft.com/</li>
+						<li>https://developer.ibm.com/</li>
+						<li>https://developer.apple.com/</li>
+						<li>https://developers.facebook.com/</li>
+						<li>https://developer.android.com/</li>
+						<li>https://developers.google.com/</li>
+						<li>https://developers.google.com/learn</li>
+						<li>https://developer.yahoo.com/</li>
+						<li>https://the-algorithms.com/</li>
+						<li>https://opencollective.com/</li>
+						<li>https://community-z.com/</li>
+						<li>https://rollingscopes.com/</li>
+						<li>https://english-e-reader.net/</li>
+						<li>https://frontend-stuff.com/</li>
+						<li>https://exercism.org/tracks</li>
+						<li>https://exercism.org/tracks/nim</li>
+						<li>https://exercism.org/tracks/elm</li>
+						<li>https://codewars.com/</li>
+						<li>https://holyjs.ru/</li>
+						<li>https://holyjs-moscow.ru/</li>
+					</ul>
+				</article>
+			</section>
+			<section class="wrapper">
+				<h2> Free Landuages: </h2>
+				<article class="block">
+					<ul class="info">
+						<li><strong>Ascii Doc</strong>
+							<ul>
+								<li>https://asciidoc.org/</li>
+								<li>https://asciidoctor.org/</li>
+								<li><a href="https://en.wikipedia.org/wiki/AsciiDoc">Ascii Doc Wiki</a></li>
+							</ul>
+						</li>
+						<li><strong>MarkDown</strong>
+							<ul>
+								<li>https://commonmark.org/</li>
+								<li>https://commonmark.org/help/</li>
+								<li>https://daringfireball.net/projects/markdown/</li>
+								<li>https://daringfireball.net/projects/markdown/basics</li>
+								<li>https://daringfireball.net/projects/markdown/syntax</li>
+								<li>https://markdownguide.org/</li>
+								<li>https://markdownguide.org/getting-started/</li>
+								<li>https://markdownguide.org/cheat-sheet/</li>
+								<li>https://markdownguide.org/basic-syntax/</li>
+								<li>https://en.wikipedia.org/wiki/Aaron_Swartz</li>
+								<li><a href="https://en.wikipedia.org/wiki/Markdown">MarkDown Wiki</a></li>
+							</ul>
+						</li>
+						<li><strong>HTML</strong>
+							<ul>
+								<li>https://html.com/</li>
+								<li>https://w3.org/html/</li>
+								<li>https://html.spec.whatwg.org/</li>
+								<li>https://w3schools.com/html/</li>
+								<li><a href="https://en.wikipedia.org/wiki/HTML">HTML</a></li>
+							</ul>
+						</li>
+						<li>https://java.com/</li>
+						<li>https://java.com/ru/</li>
+						<li>https://oracle.com/java/</li>
+						<li>https://oracle.com/ru/java/</li>
+						<li>https://oracle.com/java/#developer</li>
+						<li>https://oracle.com/ru/java/#developer</li>
+						<li>https://github.com/collections/learn-to-code</li>
+						<li>https://php.net/index.php</li>
+						<li>https://php.net/docs.php</li>
+						<li>https://php.net/manual/ru/</li>
+						<li>https://python.ru/</li>
+						<li>https://python.org/</li>
+						<li>https://python.org/about/</li>
+						<li>https://realpython.com/</li>
+						<li>https://ipython.org/</li>
+						<li>https://wiki.python.org/</li>
+						<li>https://julialang.org/</li>
+						<li>https://elixir-lang.org/</li>
+						<li>https://elm-lang.org</li>
+						<li>https://guide.elm-lang.org</li>
+						<li>https://openjsf.org/</li>
+						<li>http://jsforcats.com/</li>
+						<li>http://crockford.com/javascript/</li>
+						<li>https://eloquentjavascript.net/</li>
+						<li>https://javascriptlandia.com/</li>
+						<li>https://30secondsofcode.org/</li>
+						<li>https://nim-lang.org/</li>
+						<li>https://exercism.org/tracks/nim</li>
+						<li>https://github.com/nim-lang/Nim</li>
+						<li>https://narimiran.github.io/nim-basics/</li>
+						<li>https://xmonader.github.io/nimdays/</li>
+						<li>https://nim-lang.org/docs/lib.html</li>
+						<li>https://nim-lang.org/docs/manual.html</li>
+						<li>https://nim-lang.org/documentation.html</li>
+						<li>https://learnxinyminutes.com/docs/nim/</li>
+						<li>https://narimiran.github.io/nim-basics/</li>
+						<li>https://nim-lang.org/docs/tut1.html</li>
+						<li>https://nim-lang.org/docs/tut2.html</li>
+						<li>https://nim-lang.org/install.html</li>
+						<li>https://rosettacode.org/wiki/Rosetta_Code</li>
+					</ul>
+				</article>
+			</section>
+			<section class="wrapper">
+				<h2> Frameworks &amp; Tools: </h2>
+				<article class="block">
+					<ul class="info">
+						<li>https://js.do/</li>
+						<li>https://runjs.co/</li>
+						<li>https://runjs.app/</li>
+						<li>https://jsbin.com/</li>
+						<li>https://jsfiddle.net/</li>
+						<li>https://jseditor.io/</li>
+						<li>https://codepen.io/</li>
+						<li>https://replit.com/</li>
+						<li>https://playcode.io/new/</li>
+						<li>https://codesandbox.io/s/</li>
+						<li>https://onecompiler.com/javascript</li>
+						<li>https://replit.com/languages/nodejs</li>
+						<li>https://replit.com/languages/javascript</li>
+						<li>https://rextester.com/l/js_online_compiler</li>
+						<li>https://playcode.io/online-javascript-editor</li>	
+						<li>https://eloquentjavascript.net/</li>
+						<li>https://eloquentjavascript.net/index.html</li>
+						<li>https://eloquentjavascript.net/code/</li>
+						<li>https://eloquentjavascript.net/2nd_edition/</li>
+						<li>https://githut.info/</li>
+						<li>https://960.gs/</li>
+						<li>https://960.gs/demo.html</li>
+						<li>https://jquery.com/</li>
+						<li>https://jquery-docs.ru/</li>
+						<li>https://getbootstrap.com/</li>
+						<li>https://bootstrap-4.ru/</li>
+						<li>https://axios-http.com/</li>
+						<li>https://vuejs.org/</li>
+						<li>https://ru.vuejs.org/</li>
+						<li>https://reactjs.org/</li>
+						<li>https://ru.reactjs.org/</li>
+						<li>https://tailwindcss.com/</li>
+						<li>https://tailwindcss.ru/</li>
+						<li>https://svelte.dev/</li>
+						<li>https://ru.svelte.dev/</li>
+						<li>https://get.foundation/</li>
+						<li>https://nativescript.org/</li>
+						<li>https://ionicframework.com/</li>
+						<li>https://highlightjs.org/</li>
+						<li>https://lesscss.org/</li>
+						<li>https://ru.svelte.dev/</li>
+						<li>https://stylus-lang.com/</li>
+					</ul>
+				</article>
+			</section>
+		</main>
+	</body>
+</html>
