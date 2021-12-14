@@ -1,5 +1,9 @@
 # "devstuff"  - is the short lists of web-resources for a web-developers.
 
+## the stucture of branches:
+ * addlinks branch - only for adding new links!
+ * develops branch - only for web development!
+
 ## the stucture of files: 
  * devstuff.htm - the html insert the css code
  * devstuff.md - the devstuff in [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
